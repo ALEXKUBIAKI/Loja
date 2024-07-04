@@ -1,0 +1,112 @@
+{
+  "produtos": [
+    {
+      "id": "A120XB2",
+      "nome": "Cadeira Padrão 2E-AB",
+      "valor": 120,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB3",
+      "nome": "Cadeira  Padrão 3E-AB",
+      "valor": 250,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB4",
+      "nome": "Cadeira  Padrão 4E-AB",
+      "valor": 350,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB5",
+      "nome": "Cadeira  Padrão 5E-AB",
+      "valor": 450,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB6",
+      "nome": "Cadeira  Padrão 6E-AB",
+      "valor": 550,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB7",
+      "nome": "Cadeira  Padrão 7E-AB",
+      "valor": "200",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB8",
+      "nome": "Caidera  Padrão 8E-AB ",
+      "valor": "3424",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XB9",
+      "nome": "Cadeira  Padrão 9E-AB",
+      "valor": "300",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC0",
+      "nome": "Cadeira  Padrão 10-AB",
+      "valor": "350",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC1",
+      "nome": "Cadeira  Padrão 11-AB",
+      "valor": "350",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC2",
+      "nome": "Cadeira  Padrão 12-AB",
+      "valor": "490",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC3",
+      "nome": "Cadeira  Padrão 13-AB",
+      "valor": "500",
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC4",
+      "nome": "Cadeira  Padrão 14-AB",
+      "valor": 123,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC5",
+      "nome": "Cadeira  Padrão 15-AB",
+      "valor": 123,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC6",
+      "nome": "Cadeira  Padrão 16-AB",
+      "valor": 123,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "A120XC7",
+      "nome": "Cadeira  Padrão 17-AB",
+      "valor": 12,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "8e53",
+      "nome": "Cadeira Padrão Ergonômica",
+      "valor": 452,
+      "imagem": "/assets/image.png"
+    },
+    {
+      "id": "6712",
+      "nome": "teste",
+      "valor": 123,
+      "imagem": "/static/media/image.e42a5d159a79c99b0568.png"
+    }
+  ]
+}
